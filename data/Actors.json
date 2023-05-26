@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Nature","classId":1,"equips":[1,0,0,0,0,103],"faceIndex":4,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Washi","nickname":"","note":"","profile":"\\P[1] is an otaku that sleeps often and doesn't change\ntheir bed sheets."},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Coach","nickname":"","note":"","profile":""}
+]
